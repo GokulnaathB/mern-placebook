@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "bgokulnaath",
+    "DB_PASSWORD": "Chennai2001",
+    "DB_NAME": "test",
+    "GOOGLE_API_KEY": "AIzaSyDRw3zAVUYLRZ6PpBMMaqcRv7v-ggoc1YM",
+    "JWT_PRIVATE_KEY": "supersecret_donot_share"
+  }
+}
